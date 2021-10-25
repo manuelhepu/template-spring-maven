@@ -1,0 +1,7 @@
+---
+config:
+  repo_type: maven
+  repo_name: template-spring-maven
+  author: Manuel Herrera Pulido
+  email: manuel.herrera.pulido@kyndryl.com
+  group_maintainers: DevOps
